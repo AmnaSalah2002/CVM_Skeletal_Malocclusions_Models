@@ -1,0 +1,11 @@
+train: ../train/images
+test: ../test/images
+# Keypoints
+kpt_shape: [4, 3] 
+
+# Classes dictionary
+names:
+    0: S
+    1: N 
+    2: A 
+    3: B

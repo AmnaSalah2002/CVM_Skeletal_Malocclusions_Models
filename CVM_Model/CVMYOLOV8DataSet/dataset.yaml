@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/CVMYOLOV8DataSet/train/images
+val: /content/drive/MyDrive/CVMYOLOV8DataSet/val/images
+test: /content/drive/MyDrive/CVMYOLOV8DataSet/test/images
+
+
+
+# Classes dictionary
+names:
+    0: 'CVM'
